@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  
+limits-service:
+  maximum: 9999
+  minimum: 9
